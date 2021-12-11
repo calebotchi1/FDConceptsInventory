@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost
--- Generation Time: Dec 10, 2021 at 10:29 PM
+-- Generation Time: Dec 12, 2021 at 12:47 AM
 -- Server version: 10.4.21-MariaDB
 -- PHP Version: 7.4.23
 
@@ -39,20 +39,7 @@ CREATE TABLE `customer` (
 --
 
 INSERT INTO `customer` (`id`, `name`, `contact`, `email`) VALUES
-(3, 'Joseph Abbey', '244622829', ''),
-(8, 'Adae-Mensah Kevin', '275298814', ''),
-(10, 'Princess Nazia Adams', '246822201', 'Zeeadams68@yahoo.com '),
-(18, 'Josiah Adjavon', '541195427', 'ajinaud43@yahoo.com'),
-(45, 'Jeremy Karikari Amponsah', '244163013', 'kofistates@yahoo.com'),
-(56, 'Arhin John', '262417346', ''),
-(58, ' Abdul Rahman Arkoh', '244783645', ''),
-(75, 'Princess Deladem Attakumah', '277452752', 'rejoiceattakumah@yahoo.com'),
-(78, 'Ayensu Felicia', '276223535', ''),
-(85, 'Illanna Bannerman', '200986288', 'naakbannerman@gmail.com '),
-(88, 'Bempong Nana Yaa', '202445505', ''),
-(91, 'Nana Aba Osam Bentil', '546931388', 'esdbentil7@gmail.com'),
-(99, 'El-Shaddai Ohui Buerkie Buer', '244955088', 'lawrencebuer1686@gmail.com'),
-
+(8, 'Adae-Mensah Kevin', '275298814', 'test@test.com');
 
 -- --------------------------------------------------------
 
