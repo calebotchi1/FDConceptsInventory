@@ -151,7 +151,7 @@
                         <?php 
                         
 
-               $conn = new mysqli('localhost', 'root', '', 'fdc_inventory');
+               $conn = new mysqli('localhost', 'root', 'earlybunny3', 'fdc_inventory');
                $sql = "SELECT * FROM product";
                $result = $conn->query($sql);
 					$count=0;
